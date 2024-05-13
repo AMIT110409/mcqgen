@@ -1,0 +1,1 @@
+# here we write full code of project and it is treated as local package and thats why put init  file in mcqgeerator folder  . 
